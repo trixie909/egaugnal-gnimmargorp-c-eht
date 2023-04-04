@@ -23,3 +23,4 @@ int main() {
 ```
 # Step 3:
 wow
+https://github.com/trixie909/egaugnal-gnimmargorp-c-eht/wiki/tutorial-how-to-printf to printf
